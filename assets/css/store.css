@@ -138,3 +138,4 @@ button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:inherit;
   .admin-row{grid-template-columns:68px 1fr auto}.admin-row img,.cat-icon{width:68px;height:68px}
   .stats{gap:14px}.stat{padding:20px}
 }
+
